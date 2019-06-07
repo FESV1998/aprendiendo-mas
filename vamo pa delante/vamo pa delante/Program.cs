@@ -10,6 +10,7 @@ namespace vamo_pa_delante
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("estamos ready"); 
         }
     }
 }
